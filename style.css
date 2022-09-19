@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: linear-gradient(to left, #88d3ce 0%, #6e45e2 100%);
+}
+
+.col-md-6{
+    border: 5px solid black;
+    margin-top: 15rem !important;
+    padding: 2rem;
+}
+
+h1{
+    margin: 1.5rem !important;
+    padding: 1rem !important;
+}
+
+p{
+    padding: 1rem 0rem;
+    font-size: 2.8rem;
+    color: white;
+}
+
+.btn{
+    margin: 1.5rem !important;
+    outline: none !important;
+    border: none !important;
+    font-weight: bolder !important;
+}
+
+.btn-success{
+    background-color: rgb(41, 248, 0) !important;
+    color: black !important;
+}
+
+.btn-danger{
+    background-color: rgb(255, 0, 149) !important;
+}
