@@ -5,16 +5,17 @@
 }
 
 body{
-    background-image: linear-gradient(to left, #88d3ce 0%, #6e45e2 100%);
+    background-image: linear-gradient(to right, #3513de 0%, #000000 85%);
 }
 
 .col-md-6{
-    border: 5px solid black;
+    /* border: 5px solid white; */
     margin-top: 15rem !important;
     padding: 2rem;
 }
 
 h1{
+    color: white;
     margin: 1.5rem !important;
     padding: 1rem !important;
 }
@@ -32,11 +33,15 @@ p{
     font-weight: bolder !important;
 }
 
-.btn-success{
+/* .btn-success{
     background-color: rgb(41, 248, 0) !important;
     color: black !important;
-}
+} */
 
 .btn-danger{
     background-color: rgb(255, 0, 149) !important;
+}
+
+@media (max-width) {
+
 }
