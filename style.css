@@ -9,7 +9,7 @@ body{
 }
 
 .col-md-6{
-    /* border: 5px solid white; */
+    border: 5px solid white;
     margin-top: 15rem !important;
     padding: 2rem;
 }
@@ -40,4 +40,10 @@ p{
 
 .btn-danger{
     background-color: rgb(255, 0, 149) !important;
+}
+
+@media (max-width: 576px) {
+    .container{
+        width: 85% !important;
+    }
 }
