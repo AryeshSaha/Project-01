@@ -27,11 +27,11 @@ p{
 }
 
 .btn{
-    margin: 1.5rem !important;
+    margin: 1rem !important;
     outline: none !important;
     border: none !important;
     font-weight: bolder !important;
-    width: 10rem !important;
+    width: 36% !important;
 }
 
 .btn-danger{
