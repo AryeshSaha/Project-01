@@ -31,7 +31,7 @@ p{
     outline: none !important;
     border: none !important;
     font-weight: bolder !important;
-    width: 36% !important;
+    width: 30% !important;
 }
 
 .btn-danger{
@@ -41,5 +41,10 @@ p{
 @media (max-width: 576px) {
     .container{
         width: 85% !important;
+    }
+
+    .btn{
+        margin: .8rem !important;
+        width: 40% !important;
     }
 }
