@@ -31,12 +31,8 @@ p{
     outline: none !important;
     border: none !important;
     font-weight: bolder !important;
+    width: 30% !important;
 }
-
-/* .btn-success{
-    background-color: rgb(41, 248, 0) !important;
-    color: black !important;
-} */
 
 .btn-danger{
     background-color: rgb(255, 0, 149) !important;
