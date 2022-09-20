@@ -10,7 +10,7 @@ body{
 
 .col-md-6{
     border: 5px solid white;
-    margin-top: 15rem !important;
+    margin-top: 8% !important;
     padding: 2rem;
 }
 
@@ -31,7 +31,7 @@ p{
     outline: none !important;
     border: none !important;
     font-weight: bolder !important;
-    width: 30% !important;
+    width: 10rem !important;
 }
 
 .btn-danger{
